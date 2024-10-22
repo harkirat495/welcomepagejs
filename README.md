@@ -1,1 +1,2 @@
-# welcomepagejs
+# WelcomePageEJS
+EJS Assignment 1 
